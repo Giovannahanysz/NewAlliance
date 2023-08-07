@@ -4,8 +4,9 @@
         <meta charset="UTF-8">
         <tittle>New Alliance</tittle>
     </head>
+
     <body>
-        <h1>New Alliance</h1>
+        <h1 style="text-align: center;">New Alliance</h1>
         <p>Uma loja virtual que te proporciona uma visibilidade melhor do seu futuro, lhe trazendo segurança de como ficará sua futura <strong>aliança de noivado ou compromiso.</strong></p></p>
     </body>
     </html>
