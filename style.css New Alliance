@@ -10,6 +10,14 @@ body {
     width: 100%;
 }
 
+.principal {
+    background: #CCCCCC;
+}
+
 .itens {
     font-style: italic;
+}
+
+.Benefícios {
+    background: #FFFFFF;
 }
