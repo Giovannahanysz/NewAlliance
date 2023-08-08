@@ -11,5 +11,6 @@
         <img id="banner" src="New.jpeg.jpeg">
         <h1 style="text-align: center; background: #CCCCCC;">New Alliance</h1>
         <p>Uma loja virtual que te proporciona uma visibilidade melhor do seu futuro, lhe trazendo segurança de como ficará sua futura <strong>aliança de noivado ou compromiso.</strong></p></p>
+        <p id="missão"><em>Nossa missão é "Oferecer um acesório lindo para eternizar seus melhores momentos"</em></p>
     </body>
     </html>
