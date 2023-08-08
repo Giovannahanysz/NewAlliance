@@ -24,7 +24,7 @@
                   <li class="itens">Suporte e assistência online</li>
             </ul>  
 
-            <img src="alianças.jpg">
+            <img src="alianças.jpg" class="imagemalianças">
         </div>    
        </body>
     </html>
