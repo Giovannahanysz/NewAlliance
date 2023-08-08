@@ -9,3 +9,7 @@ body {
 #banner {
     width: 100%;
 }
+
+.itens {
+    font-style: italic;
+}
