@@ -22,5 +22,21 @@
             </div>
         </header>
 
+        <main>
+           <ul>
+            <li>
+                <h2>Alianças noivado</h2>
+                <img src="casamento.png">
+                <p> Alianças perfeitas para o seu casamento</p>
+            </li>
+            
+            <li>
+                <h2>Alianças compromisso</h2>
+                <img src="namoro.png">
+                <p> Alianças de compromisso lindas e delicadas</p>
+            </li>
+           </ul>
+        </main>
+
     </body>
 </html>
