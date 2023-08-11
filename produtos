@@ -23,7 +23,7 @@
         </header>
 
         <main>
-           <ul>
+           <ul class="produtos">
             <li>
                 <h2>Alianças noivado</h2>
                 <img src="casamento.png">
