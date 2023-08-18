@@ -5,13 +5,13 @@ header {
 
 .caixa {
    position: relative;
-   width: 1200px;
+   width: 2000px;
    margin: 20px;
    }
 
 nav {
    position: absolute;
-   top: 200px;
+   top: 220px;
    right: 0;
 }
 
@@ -19,7 +19,7 @@ nav {
 
 nav li{
    display: inline;
-   margin: 0 0 0 15px;
+   margin: 0 0 0 20px;
 }
 
 nav a {
@@ -66,5 +66,10 @@ nav a:hover {
 }
 
 .produtos li:hover h2 {
-    font-size: 40px;
+    font-size: 34px;
+}
+
+footer {
+    text-align: center;
+    background-color: #CCCCCC;
 }
