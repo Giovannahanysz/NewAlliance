@@ -5,7 +5,7 @@ header {
 
 .caixa {
    position: relative;
-   width: 1150px;
+   width: 1200px;
    margin: 20px;
    }
 
@@ -30,6 +30,11 @@ nav a {
    text-decoration: none;
 }
 
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
 .produto-descrição {
     font-size: 18px;
     margin-top: 10px;
@@ -50,4 +55,16 @@ nav a {
     box-sizing: border-box;
    border: 2px solid #000000;
    border-radius: 10px;
+}
+
+.produtos li:hover {
+    border-color: #C78C19;
+}
+
+.produtos li:active {
+    border-color: #696969
+}
+
+.produtos li:hover h2 {
+    font-size: 40px;
 }
