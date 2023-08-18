@@ -38,5 +38,10 @@
            </ul>
         </main>
 
+        <footer>
+            <img src="logo.cinza.png">
+            <p>Copyright New alliance - 2021</p>
+        </footer>
+
     </body>
 </html>
